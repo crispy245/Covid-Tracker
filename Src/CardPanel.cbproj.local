@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/19 00:57:01.000.601,C:\Users\Aldo\Documents\Embarcadero\Studio\20.0\CatalogRepository\CardPanelDemo-1.0cb-Rio\Src\uCardPanel.cpp=</Transaction>
+    <Transaction>2021/06/19 00:57:16.000.386,=C:\Users\Aldo\Documents\Embarcadero\Studio\20.0\CatalogRepository\CardPanelDemo-1.0cb-Rio\Src\Unit2.cpp</Transaction>
+    <Transaction>2021/06/19 01:00:38.000.588,C:\Users\Aldo\Documents\Embarcadero\Studio\20.0\CatalogRepository\CardPanelDemo-1.0cb-Rio\Src\Unit2.h=C:\Users\Aldo\Documents\Embarcadero\Studio\20.0\CatalogRepository\CardPanelDemo-1.0cb-Rio\Src\Unit1.h</Transaction>
+    <Transaction>2021/06/19 01:00:38.000.588,C:\Users\Aldo\Documents\Embarcadero\Studio\20.0\CatalogRepository\CardPanelDemo-1.0cb-Rio\Src\Unit2.dfm=C:\Users\Aldo\Documents\Embarcadero\Studio\20.0\CatalogRepository\CardPanelDemo-1.0cb-Rio\Src\Unit1.dfm</Transaction>
+    <Transaction>2021/06/19 01:00:38.000.588,C:\Users\Aldo\Documents\Embarcadero\Studio\20.0\CatalogRepository\CardPanelDemo-1.0cb-Rio\Src\Unit2.cpp=C:\Users\Aldo\Documents\Embarcadero\Studio\20.0\CatalogRepository\CardPanelDemo-1.0cb-Rio\Src\Unit1.cpp</Transaction>
+    <Transaction>2021/06/19 17:04:41.000.781,=C:\Users\Aldo\Desktop\MyFinal\Src\Unit3.cpp</Transaction>
+    <Transaction>2021/06/19 17:16:18.000.751,=C:\Users\Aldo\Desktop\MyFinal\Src\Unit4.cpp</Transaction>
+    <Transaction>2021/06/23 18:20:41.000.809,=C:\Users\Aldo\Desktop\MyFinal\Src\File1.h</Transaction>
+    <Transaction>2021/06/23 18:20:47.000.014,=C:\Users\Aldo\Desktop\MyFinal\Src\File1.cpp</Transaction>
+    <Transaction>2021/06/23 18:23:46.000.778,C:\Users\Aldo\Desktop\MyFinal\Src\Student.h=C:\Users\Aldo\Desktop\MyFinal\Src\File1.h</Transaction>
+    <Transaction>2021/06/23 18:26:23.000.854,C:\Users\Aldo\Desktop\MyFinal\Src\Student.cpp=C:\Users\Aldo\Desktop\MyFinal\Src\File1.cpp</Transaction>
+    <Transaction>2021/06/23 18:27:02.000.476,C:\Users\Aldo\Desktop\MyFinal\Src\Student.cpp=</Transaction>
+    <Transaction>2021/06/23 18:33:58.000.834,=C:\Users\Aldo\Desktop\MyFinal\Src\File1.cpp</Transaction>
+    <Transaction>2021/06/23 18:34:09.000.360,C:\Users\Aldo\Desktop\MyFinal\Src\Student.cpp=C:\Users\Aldo\Desktop\MyFinal\Src\File1.cpp</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

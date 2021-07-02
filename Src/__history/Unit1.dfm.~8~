@@ -1,0 +1,97 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 396
+  ClientWidth = 711
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object LStudent: TLabel
+    Left = 106
+    Top = 116
+    Width = 120
+    Height = 33
+    Caption = 'StudentID'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object LTemp: TLabel
+    Left = 88
+    Top = 214
+    Width = 154
+    Height = 33
+    Caption = 'Temperature'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Button1: TButton
+    Left = 184
+    Top = 296
+    Width = 329
+    Height = 81
+    Caption = 'Send'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -29
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object EStudent: TEdit
+    Left = 248
+    Top = 113
+    Width = 281
+    Height = 41
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    MaxLength = 9
+    NumbersOnly = True
+    ParentFont = False
+    TabOrder = 1
+  end
+  object ETemp: TEdit
+    Left = 248
+    Top = 211
+    Width = 281
+    Height = 41
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    NumbersOnly = True
+    ParentFont = False
+    TabOrder = 2
+  end
+  object TTemp: TADOTable
+    Active = True
+    ConnectionString = 
+      'Provider=SQLOLEDB.1;Password=rockfuego245$;Persist Security Info' +
+      '=True;User ID=nachoman245;Initial Catalog=TemperatureDB;Data Sou' +
+      'rce=donghwatemperature.database.windows.net'
+    CursorType = ctStatic
+    TableName = 'TempTracker'
+    Left = 40
+    Top = 328
+  end
+end

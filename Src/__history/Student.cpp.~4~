@@ -1,0 +1,14 @@
+#include "Student.h"
+
+
+int Student::getTemperature(){
+    return temperature;
+}
+
+void Student::setTemperature(int n){
+	temperature = n;
+    getTemperature();
+
+}
+
+
